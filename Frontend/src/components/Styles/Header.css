@@ -1,0 +1,49 @@
+.Website{
+    display :flex;
+    flex-direction: row;
+    
+}
+.Navbar{
+ position: absolute;
+width:100%;
+left: 100px;
+}
+.LogoContainer img{
+    width:6em;
+   margin:auto;
+   margin-top: -1rem;
+   z-index: 60;
+   
+}
+
+.nav-items{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin-right: 20em;
+    top: 2em;
+    justify-content: center;
+    align-items: center
+    
+}
+.nav-items li{
+    padding: 0.5rem 1.8rem;
+    
+}
+.nav-items a{
+    text-decoration: none;
+    align-items: center;
+}
+.nav-items li a{
+    list-style-type: none;
+    list-style: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-family: "Quicksand", sans-serif;
+    color: #666;
+    height: 1.5rem;
+    text-transform: uppercase;
+    position: relative;
+    transition: .5s;
+}

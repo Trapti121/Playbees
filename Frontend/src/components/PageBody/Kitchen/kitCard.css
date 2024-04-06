@@ -1,0 +1,30 @@
+.kitContent{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 14rem;
+    font-weight: 500;
+    font-size: medium;
+    margin-left: 2rem;
+    padding: 12px;
+    justify-content: center;
+    border-radius: 20px;
+     box-shadow:2px 5px 5px 2px  black ;
+    background-color: rgb(212, 241, 232);
+ }
+ .kitContent p{
+     margin: 2px;
+     padding: 1px;
+     border: 2px solid rgb(122, 121, 121);
+ }
+
+.billbtn{
+    margin-left: 12rem;
+    margin-top: 2rem;
+}
+.btn11{
+    margin-left: -2rem;
+    margin-top: -5rem;
+    background-color: rgb(63, 61, 61);
+}
+

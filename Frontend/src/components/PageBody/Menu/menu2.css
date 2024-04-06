@@ -1,0 +1,32 @@
+.Menu-list{
+    margin-top:50px;
+    box-shadow: 0 3px 8px rgba(8, 8, 8, 1);
+    width:67rem;
+    padding: 2px;
+    padding-bottom: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Menu-list h3{
+    left: 440px;
+    position: relative;
+}
+.Menu-list ul li{
+    display: inline-block;
+    padding:5px;
+    width:150px;
+    border: 1px solid rgb(141, 218, 184);
+    
+
+}
+.Menu-list ul{
+    margin:-2px;
+    
+}
+.operation {
+    background-color: rgb(72, 223, 173);
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 3px 3px;
+    margin: -1px;
+  }

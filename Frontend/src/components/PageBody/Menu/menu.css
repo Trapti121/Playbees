@@ -1,0 +1,73 @@
+.MenuPage{
+  display: flex;
+  
+}
+.MenuBox{
+    margin-left: 17px;
+    margin-right: 55px;
+    margin-top: 2rem;
+    width: 70rem;
+    background:white;
+    margin-bottom: 2rem;
+    border-radius: 2rem;
+}
+.MenuBox h1{
+    margin-top: -0.6rem;
+    margin-left:32rem;
+    padding-top: 17px;
+    font-weight: 500;
+    color: #141E46;
+}
+.MenuItems{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+hr{
+  margin: 1rem;
+}
+.orderList{
+  box-shadow: 5px 2px 5px 5px #888888;
+ width: 380px;
+ height: 80vh;
+ position: fixed;
+ margin-top: 11px;
+ margin-left: 71rem;
+}
+.orderList h1{
+  margin-top: 1rem;
+    margin-left:6rem;
+    padding-top: 1px;
+    font-weight: 500;
+    color: #342f2f;
+}
+h5{
+  margin-left:4rem;
+  color: #504d4d;
+}
+.orderList li{
+  list-style: none;
+  margin-left:-.5rem;
+  color: #575252;
+}
+.total{
+  margin-top: 2rem;
+}
+.confirmbtn{
+  background-color: #33a2ac;
+  margin-left:0px;
+}
+.confirmbtn :hover{
+  background-color: #47e2f0;
+}
+.CartButton {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin:0px;
+  margin-bottom: 4px;
+  
+}
+.CartButton p{
+  margin: 1px;
+}

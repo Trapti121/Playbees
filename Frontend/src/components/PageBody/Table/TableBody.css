@@ -1,0 +1,39 @@
+.Container{
+    margin-left: 150px;
+    margin-right: 105px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 4px 2px 4px 2px #3f3e3e;
+}
+
+.head{
+    display:flex;
+    margin-left:1rem; 
+}
+.Size{
+    margin-left:35rem;
+   margin-top: 1rem;
+}
+
+.head h3{
+    margin-top: 1.4rem;
+    margin-left:28rem;
+    font-weight: 500;
+    color: white;
+}
+.h{
+    background: rgb(29, 27, 27);
+    display: flex;
+    flex-direction: row;
+    height: 0.01rem;
+    margin-top: 1rem;
+}
+.Tables{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.btn{
+  margin-left: -38rem;
+  background-color:rgb(52, 55, 55); 
+}
